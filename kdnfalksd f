@@ -1,0 +1,31 @@
+[33mcommit 054637fa02587f0b2f493f34c49a774f3ee29462[m[33m ([m[1;36mHEAD -> [m[1;32mbranch-one[m[33m, [m[1;32mmaster[m[33m)[m
+Author: dkim52 <dkim52@gmail.com>
+Date:   Sat Feb 12 10:20:25 2022 -0800
+
+    commit four on branch-one - started working on chapter two
+
+[33mcommit 41009fc475780d3ffea1b09369a6eb36ce5a6a4a[m
+Author: dkim52 <dkim52@gmail.com>
+Date:   Sat Feb 12 09:31:16 2022 -0800
+
+    dummy
+
+[33mcommit b36565d0ffdc4351da220b28aa4c735d3d8200c4[m
+Author: dkim52 <dkim52@gmail.com>
+Date:   Sat Feb 12 09:31:00 2022 -0800
+
+    commit one on branch-one
+
+[33mcommit 2624b853302378b9924de52d9c40e1e99eef952f[m
+Author: dkim52 <dkim52@gmail.com>
+Date:   Sat Feb 12 09:04:56 2022 -0800
+
+    second commit
+    
+    some dummy txt file
+
+[33mcommit b3c8e1d39b012f610b3079bb539d6e16a6bab943[m
+Author: dkim52 <dkim52@gmail.com>
+Date:   Sat Feb 12 08:59:05 2022 -0800
+
+    created basic commands checklist
